@@ -5,7 +5,6 @@ I work at Shanghai AI Lab, OpenDialogLab Team as a researcher now in Shanghai, d
 My research interest includes `dialog system`, `reinforcement learning` and `large langauge model`. I have published more than 15 papers at the top international NLP conferences such as ACL, EMNLP, NAACL, AAAI and the top international NLP journals such as TACL and TSALP.
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowcz&layout=compact) -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=wowcz&theme=gruvbox&rank=A,B,C" /> </div>
 
 ## 🔥News
 * 2023.03: I join Shanghai AI Lab, OpenDialogLab Team as a researcher!
@@ -14,5 +13,11 @@ My research interest includes `dialog system`, `reinforcement learning` and `lar
 * 2022.12: One paper is accepted by EMNLP 2022!
 * 2022.09: One paper is accepted by SigDial 2022!
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=wowcz&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B,C" /> </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wowcz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+| | |
+|--|--|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowcz&show_icons=true&theme=radical&line_height=40)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowcz&theme=radical&&line_height=30)|
+
