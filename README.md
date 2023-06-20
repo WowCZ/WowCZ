@@ -18,6 +18,6 @@ My research interest includes `dialog system`, `reinforcement learning` and `lar
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wowcz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | | |
-|--|--|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowcz&show_icons=true&theme=radical&line_height=40)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowcz&theme=radical&&line_height=30)|
+ :-: | :-:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wowcz&show_icons=true&theme=radical&line_height=40)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowcz&theme=radical&&line_height=30)
 
