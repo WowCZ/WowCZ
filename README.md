@@ -7,7 +7,8 @@ My research interest includes `dialog system`, `reinforcement learning` and `lar
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowcz&layout=compact) -->
 
 ## 🔥News
-* 2023.03: I join Shanghai AI Lab, OpenDialogLab Team as a researcher!
+* 2023.10: One demo paper (Chinese LLM Evaluation Platform) is accepted by EMNLP 2023!
+* 2023.03: I join Shanghai AI Lab, OpenLMLab Team as a researcher!
 * 2023.02: One paper is accepted by NCMMSC ( Best Paper Award )!
 * 2023.01: One journal paper is accepted by TACL!
 * 2022.12: One paper is accepted by EMNLP 2022!
